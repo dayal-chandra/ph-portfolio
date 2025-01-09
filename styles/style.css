@@ -287,3 +287,10 @@ textarea {
   padding: 10px 0 10px 20px;
   border-radius: 4px;
 }
+
+footer {
+  color: #fff;
+  background-color: #fd6e0a;
+  text-align: center;
+  padding: 10px 0;
+}
