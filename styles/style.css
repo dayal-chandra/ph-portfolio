@@ -31,7 +31,7 @@ header {
   background-image: url("../images/developer.png"),
     url("../images/header_bg.png");
   background-repeat: no-repeat;
-  background-position: top left, bottom right;
+  background-position: top calc(25px) left calc(55px), bottom right;
   background-color: rgb(255, 248, 243);
 }
 
