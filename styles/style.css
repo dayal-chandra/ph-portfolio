@@ -170,6 +170,13 @@ nav ul a {
   padding: 20px;
   box-shadow: 10px 10px 10px #9e9d9d;
   border-radius: 4px;
+  transition: 0.5s ease-in-out;
+}
+
+.exp-card:hover {
+  color: #fff;
+  background-color: #000;
+  transform: translateY(-15px);
 }
 
 .exp-card p {
